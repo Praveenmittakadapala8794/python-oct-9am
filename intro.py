@@ -3,3 +3,10 @@ print(x)
 print(type(x))
 print(id(x))
 print(len(x))
+
+
+
+
+
+
+print("Hello")
